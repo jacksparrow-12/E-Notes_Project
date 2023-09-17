@@ -6,4 +6,6 @@ Project Pre-Requirement are :-
 
 Overview of Technologies used in this project are :-
 Frontend :- HTML,CSS,BOOTSTRAP-4,Fontawesome
-Backend :- Jsp,Servlet,JDBC,Database - MYSQL Workbench
+Backend :- Jsp,Servlet,JDBC,Database - MYSQL Workbench, Server - Apache Tomcat
+
+I'd recommend to watch the tutorial and access the files accordingly, this project takes a while to create..
